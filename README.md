@@ -93,6 +93,14 @@ Unity 기반 3D 농구 연습 / 트레이닝 게임 **NBA 4K** 레포지토리�
 
 ---
 
+## Assets & Credits
+
+- Character: Unity-chan (© Unity Technologies Japan / Unity-chan License)
+- 3rd Person Controller: Invector Third Person Controller - Basic Locomotion FREE
+- Fonts/UI: TextMesh Pro (Unity)
+
+---
+
 ## 🔧 핵심 스크립트 – BallDribble (요약)
 
 - **공 줍기**
