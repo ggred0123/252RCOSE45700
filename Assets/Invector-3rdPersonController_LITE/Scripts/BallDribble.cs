@@ -155,6 +155,7 @@ private float currentMaxDribbleHeight;
             animator.SetFloat("InputMagnitude", inputMagnitude);
         }
     }
+    // 공 줍기 처리
     void HandleBallPickup()
     {
         if (!hasBall && Input.GetKeyDown(pickupKey))
@@ -648,6 +649,7 @@ void UpdateCharacterMovement()
     }
 }
 
+    // 바닥 충돌 및 바운스 처리
     void CheckGroundAndBounce()
 {
     bool isGrounded = Physics.CheckSphere(transform.position, groundCheckRadius, groundLayer);
