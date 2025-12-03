@@ -75,6 +75,15 @@ Unity 기반 3D 농구 연습 / 트레이닝 게임 **NBA 4K** 레포지토리�
 
 ---
 
+## Project Structure
+
+- Assets/BasketPlayGround : 농구 코트, 골대 등 환경 에셋
+- Assets/Invector-3rdPersonController_LITE : 3인칭 캐릭터 컨트롤러
+- Assets/Scripts : 공 드리블, 점수 계산 등 게임 로직 스크립트
+- Assets/Scenes/SampleScene.unity : 메인 게임 씬
+
+---
+
 ## 🔧 핵심 스크립트 – BallDribble (요약)
 
 - **공 줍기**
